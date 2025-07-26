@@ -26,3 +26,5 @@ C]Added Slicers to make the reports & visuals dynamic in real-time
 
 6] Outcome
 1] The main focus should be on improving Small Business in the Customer segment, the Furniture category in Products, and the South region. On the other hand, the sectors that have shown growth include the Corporate segment in Customers, the Technology category in Products, and the Central region which has the highest customer count.
+
+7] Published report to Power BI Service
